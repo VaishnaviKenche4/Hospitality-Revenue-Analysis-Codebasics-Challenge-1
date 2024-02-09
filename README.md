@@ -13,8 +13,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Data Model![image](https://github.com/VaishnaviKenche4/Hospitality-Revenue-Analysis-Codebasics-Challenge-1/assets/159226103/6fa4f368-3013-4a0d-8e5e-49561cc91a67)
 
+Data Model:
+![image](https://github.com/VaishnaviKenche4/Hospitality-Revenue-Analysis-Codebasics-Challenge-1/assets/159226103/32a29ac8-1e35-4e0d-b414-f25efd584840)
 
+Overall Analysis
 ![AtliQ Hospitality Analysis Dashboard1](https://github.com/VaishnaviKenche4/Hospitality-Revenue-Analysis-Codebasics-Challenge-1/assets/159226103/04ce52a0-ff2a-4862-b07c-7159348a8c4e)
+
+![Dashboard2](https://github.com/VaishnaviKenche4/Hospitality-Revenue-Analysis-Codebasics-Challenge-1/assets/159226103/84011745-0f06-4687-8514-bc02fed83645)
 
