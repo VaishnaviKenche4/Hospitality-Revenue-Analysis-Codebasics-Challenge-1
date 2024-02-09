@@ -1,4 +1,4 @@
-# Hospitality-Revenue-Analysis-Codebasics-Challenge-1
+# AtliQ Hospitality-Revenue-Analysis-Codebasics-Challenge-1
 Domain:  Hospitality       Function: Revenue
 Problem Statement:
 
